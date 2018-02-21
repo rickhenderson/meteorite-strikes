@@ -14,3 +14,4 @@ The above analysis is a good introduction to the process of data science for asp
 
 ### Visualizations
 The original data visualization map has been taken offline as of Feb 2018 and I'll be working with Tableau Public to produce a new one.
+Feb 21, 2018: My Tableau Public data visualization can be seen <a href="https://public.tableau.com/views/RegisteredMeteoriteStrikesImpactedonEarthsince1900/Map?:embed=y&:display_count=yes">here</a>
